@@ -16,6 +16,8 @@ Drag the digraph.plist onto the text replacement list.
 [See also.](https://support.apple.com/en-us/HT204006)
 Note the digraph list includes over 1200 replacements.
 
+To uninstall mark all the replacements and press the minus button.
+
 ## List of Digraphs
 
 A full list of digraphs is at the bottom of this [vim documentation](https://vimhelp.org/digraph.txt.html).
