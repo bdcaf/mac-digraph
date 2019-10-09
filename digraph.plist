@@ -532,15 +532,6 @@
 <dict> <key>phrase</key> <string>و</string> <key>shortcut</key> <string>§w+</string> </dict>
 <dict> <key>phrase</key> <string>ى</string> <key>shortcut</key> <string>§j+</string> </dict>
 <dict> <key>phrase</key> <string>ي</string> <key>shortcut</key> <string>§y+</string> </dict>
-<dict> <key>phrase</key> <string>ً	:+</string> <key>shortcut</key> <string>§064B</string> </dict>
-<dict> <key>phrase</key> <string>ٌ	"+</string> <key>shortcut</key> <string>§064C</string> </dict>
-<dict> <key>phrase</key> <string>ٍ	=+</string> <key>shortcut</key> <string>§064D</string> </dict>
-<dict> <key>phrase</key> <string>َ	/+</string> <key>shortcut</key> <string>§064E</string> </dict>
-<dict> <key>phrase</key> <string>ُ	'+</string> <key>shortcut</key> <string>§064F</string> </dict>
-<dict> <key>phrase</key> <string>ِ	1</string> <key>shortcut</key> <string>§	0650</string> </dict>
-<dict> <key>phrase</key> <string>ّ	3</string> <key>shortcut</key> <string>§	0651</string> </dict>
-<dict> <key>phrase</key> <string>ْ	0</string> <key>shortcut</key> <string>§	0652</string> </dict>
-<dict> <key>phrase</key> <string>ٰ	aS</string> <key>shortcut</key> <string>§0670</string> </dict>
 <dict> <key>phrase</key> <string>پ</string> <key>shortcut</key> <string>§p+</string> </dict>
 <dict> <key>phrase</key> <string>ڤ</string> <key>shortcut</key> <string>§v+</string> </dict>
 <dict> <key>phrase</key> <string>گ</string> <key>shortcut</key> <string>§gf</string> </dict>
